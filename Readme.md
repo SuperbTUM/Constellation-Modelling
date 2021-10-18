@@ -18,4 +18,4 @@
 
 # 附件
 
-详情可以参考wiki里面的链接。
+详情可以参考[Wiki](https://github.com/SuperbTUM/Constellation-Modelling/wiki)里面的链接。
